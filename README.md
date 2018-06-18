@@ -10,6 +10,7 @@ Abstract: This paper presents a simple and effective two-stage mesh denoising al
 # Requirement:
 
 Windows 7 or newer.
+
 Java.
 
 # Input Supported File:
@@ -38,8 +39,10 @@ To compile the provided sourec code:
 9. "Mesh quality" button computes the mesh quality factor Q of the current geometry.
 
 If you have further questions or not able to compile the algorithm, please write me on following emails:
-  sunil.yadav@fu-berlin.de
-  sunil7545@gmail.com
+ 
+ sunil.yadav@fu-berlin.de
+ 
+ sunil7545@gmail.com
 
 
 
