@@ -28,7 +28,7 @@ To compile the provided sourec code:
 
 4. Click on the "Browse Computer" button and upload a nosiy mesh (.stl, .off, .obj and .jvx).
 
-5. Folder has a noisy fandisk model (use can load that model too) .
+5. Folder has a noisy fandisk model (user can load that model too) .
 
 6. There are three different parameters to tune: range variation (\sigma_s), isotropic factor (\lambda_I) and number of iterations (p).
 
